@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<header>
+	<title>CRoe's Art Gallery<title>
+	<nav> </nav>
+<meta Charset="UTF-8>
+<meta name="descritption" content="Cherylyn's Art Gallery"
+	</header>
+	<body>
+<h1>Welcome to my art gallery</h1>
+	<p1>Ever need a custom piece of art? Here Can make your favorite pet come to life, create a wonderful outdoor scene, or airbrush a lavish monster scene.</p1>
+
+	</body>
